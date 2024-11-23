@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Balazs
 - 🩺 Anaesthetist interested in ICU, paeds, and TIVA.
 - 💞️ Nerdy about all things aviation, Lego, musicals, and tech.
-- 📫 @cannula_service
-- 🦋 @cannulaservice.bsky.social
+- 📫 [@cannula_service](https://twitter.com/cannula_service)
+- 🦋 [@cannulaservice.bsky.social](https://bsky.app/profile/cannulaservice.hibalazs.net)
 - 😄 Pronouns: He/him
 
 <!---
