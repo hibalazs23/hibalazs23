@@ -1,10 +1,10 @@
 ## Config file
 
+title: Hi! I'm Balazs.
+logo: "/images/profile.jpg?raw=true" 
+description: This is a personal collection of useful information.
+show_downloads: false
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-title: Hi!
-description: Personal collection of useful information.
-
-show_downloads: false
