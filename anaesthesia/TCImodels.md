@@ -3,7 +3,8 @@ Which TCI model is the fairest of them all?
 
 *This document expands on a presentation I gave for the 2024 [SIVA ASM](https://www.sivameetings.co.uk/programme) infographic competition.*
 
-![TIVA infographic](images/mirrormirrorTCI-small.png)
+[![TIVA infographic](images/mirrormirrorTCI-small.png)](assets/mirrormirrorTCI-large.png)
+<sub>([Click here](assets/TCImodels-infographic-BHollos.pdf) for full sized PDF for downloading or sharing</sub>
 
 What I found surprising during my research was the variation in how models are implemented. You can't take for granted that using the same model between different pump manufacturers or different hospitals will result in the exact same behaviour.
 
